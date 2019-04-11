@@ -26,7 +26,7 @@ See [instructions here](/deploy/local_dockerce/)
 You can setup and run this project with the Minikube VM
 See [instructions here](/deploy/local_minikube/)
 
-### Cloud
+### Cloud. - has not been set up yet -
 
 #### Setup in Google Cloud
 
