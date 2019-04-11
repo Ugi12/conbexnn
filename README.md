@@ -28,6 +28,7 @@ See [instructions here](/deploy/local_dockerce/)
 You can setup and run this project with the Minikube VM
 See [instructions here](/deploy/local_minikube/)
 
+<!---
 ### Cloud. - has not been set up yet -
 
 #### Setup in Google Cloud
@@ -44,3 +45,4 @@ See [instructions here](/deploy/cloud/azure/)
 
 You can setup and run this project in Microsoft EKS
 This could not be tested, as billing must be enabled and EKS is not included in the AWS student program. Read the [amazon Documentation](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html) on how to deploy Kubernetes Clusters.
+--->
