@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: Pod
-metadata:
-  name: vinnsl-nn-worker-tensorflow-js
-spec:
-  containers:
-    - name: vinnsl-nn-worker-tensorflow-js
-      image: ugizzzz/vinnsl-nn-worker-tensorflow-js:10
