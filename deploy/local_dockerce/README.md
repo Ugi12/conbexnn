@@ -25,6 +25,8 @@ kubectl apply -f vinnsl-nn-ui.yaml
 kubectl apply -f mongo-storage-service.yaml
 kubectl apply -f vinnsl-storage-service.yaml
 kubectl apply -f vinnsl-nn-worker.yaml
+kubectl apply -f vinnsl-nn-worker-js.yaml
+kubectl apply -f vinnsl-nn-worker-py.yaml
 ```
 
 ### Check if Services are up

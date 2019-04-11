@@ -38,3 +38,7 @@ spec:
         backend:
           serviceName: vinnsl-ui
           servicePort: 8088
+      - path: /tfjs
+        backend:
+          serviceName: vinnsl-nn-worker-tensorflow-js
+          servicePort: 3000

@@ -22,6 +22,8 @@ items:
       group: at.ac.univie.a0908270.nncloud
     name: vinnsl-service
   spec:
+    externalIPs:
+    - 131.130.37.13
     ports:
     - name: http
       port: 8080
